@@ -1,0 +1,73 @@
+@page
+@model RegistroModel
+@{
+    ViewData["Title"] = "Registro";
+}
+<link rel="stylesheet" href="~/css/StyleRegistro.css" />
+<div class="PrincipalUno">
+    <div class="PrincipalRegistro">
+        <div class="Formulario">
+            <div class="Logo">
+                <h1>Dueño mascota</h1>
+             <img src="Imagenes/Persona.png" alt="" class="Uno">
+            </div>
+            
+            <form action="">
+                <label for="">nombres</label>
+                <input type="text" id="nombres">
+                <label for="Apellidos">Apellidos</label>
+                <input type="text" id="Apellidos">
+                <label for="Identificacion">Identificacion</label>
+                <input type="text" id="Identificacion">
+                <label for="">Direccion</label>
+                <input type="text" id="Direccion">
+                <label for="Telefono" id="Telefono">Telefono</label>
+                <input type="number" id="Telefono"> 
+                <label for="Correo Electtronico">Correo Electronico</label>
+                <input type="email" name="" id="">
+                <input type="button" value="Enviar" class="Boton"> <br>
+                <input type="reset" value="Restablecer informacion" class="Boton"> 
+        
+            </form>
+        </div>
+    
+    
+    </div>
+    <div class="PrincipalRegistro">
+        <div class="Formulario">
+            <div class="Logo">
+                <h1>Mascota</h1>
+             <img src="Imagenes/1.png" alt="" class="Dos">
+            </div>
+            <form action="">
+                <label for="">Documento del dueño de la mascota</label>
+                <input for="" type="text" >
+                <label for="">Nombre de Mascota</label>
+                <input type="text">
+                <label for="">Fecha de Nacimineto</label>
+                <input type="date">
+                
+                <div class="Opcion">
+                    <label for="" class="TipoMascota">Tipo de Mascota</label>
+                    <label for="">Gato</label> <input type="radio" id="Gato" name="opcion" value="Gato">
+                    <label for="">Perro</label> <input type="radio" id="Gato" name="opcion" value="Perro">
+
+                </div>
+                
+                <input type="button" value="Enviar" class="Boton"> <br>
+                <input type="reset" value="Restablecer informacion" class="Boton">
+    
+    
+    
+    
+            </form>
+        
+
+        </div>
+        
+    </div>
+    </div>
+    <div class="Info">
+        <h1>Informacion sobre el funcionamiento de los registros</h1>
+        <p>Para registrar cualquier tipo mascota, debe registrarse a nombre de un adulto, el cual tambien debera estar registrado previamente en la plataforma.</p>
+    </div>

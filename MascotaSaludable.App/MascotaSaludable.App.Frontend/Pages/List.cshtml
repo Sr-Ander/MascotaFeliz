@@ -1,0 +1,63 @@
+@page
+@model MascotaSaludable.App.Frontend.Pages.ListModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/StyleList.css" />
+
+<div class="Principalito">
+<br>
+<h1>listado Clientes</h1>
+<table class="table">
+    <tr class="Uno">
+            <td><h2>Clientes</h2> </td>
+            <td>Documento</td>
+            <td>Nombre</td>
+            <td>Apellidos</td>
+            <td>Telefono</td>
+            <td>CorreoElectronico</td>
+    </tr>
+    @foreach (var Persona in Model.Personas)
+    {
+        
+
+        <tr>
+            <td> </td>
+            <td> @Persona.Identificacion </td>
+            <td> @Persona.Nombre </td>
+            <td> @Persona.Apellidos </td>
+            <td> @Persona.Telefono </td>
+            <td> @Persona.CorreoElectronico </td>
+
+        </tr>
+    }
+
+</table>
+
+<h1>listado Mascotas</h1>
+<table class="table">
+    <tr class="Uno">
+            <td><h2>Mascotas</h2> </td>
+            <td>Documento Dueño</td>
+            <td>Id Mascota</td>
+            <td>Nombre Mascota</td>
+            <td>Fecha de Nacimiento</td>
+    </tr>
+    @foreach (var Mascota in Model.Mascotas)
+    {
+        
+
+        <tr>
+            <td> </td>
+            <td> @Mascota.IdentificacionDueno </td>
+            <td> @Mascota.IdMascota </td>
+            <td> @Mascota.NombreMascota </td>
+            <td> @Mascota.FechaNacimiento</td>
+
+
+        </tr>
+    }
+
+</table>
+
+</div>

@@ -1,0 +1,9 @@
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\obj\Debug\netstandard2.0\MascotaSaludable.App.Dominio.csprojAssemblyReference.cache
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\obj\Debug\netstandard2.0\MascotaSaludable.App.Dominio.AssemblyInfoInputs.cache
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\obj\Debug\netstandard2.0\MascotaSaludable.App.Dominio.AssemblyInfo.cs
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\obj\Debug\netstandard2.0\MascotaSaludable.App.Dominio.csproj.CoreCompileInputs.cache
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\bin\Debug\netstandard2.0\MascotaSaludable.App.Dominio.deps.json
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\bin\Debug\netstandard2.0\MascotaSaludable.App.Dominio.dll
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\bin\Debug\netstandard2.0\MascotaSaludable.App.Dominio.pdb
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\obj\Debug\netstandard2.0\MascotaSaludable.App.Dominio.dll
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Dominio\obj\Debug\netstandard2.0\MascotaSaludable.App.Dominio.pdb

@@ -1,0 +1,12 @@
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\obj\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.csprojAssemblyReference.cache
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\obj\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.AssemblyInfoInputs.cache
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\obj\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.AssemblyInfo.cs
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\obj\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\bin\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.deps.json
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\bin\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.dll
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\bin\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.pdb
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\bin\Debug\netstandard2.1\MascotaSaludable.App.Dominio.dll
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\bin\Debug\netstandard2.1\MascotaSaludable.App.Dominio.pdb
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\obj\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.csproj.CopyComplete
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\obj\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.dll
+C:\EmpresaMascota\MascotaSaludable.App\MascotaSaludable.App.Persistencia\obj\Debug\netstandard2.1\MascotaSaludable.App.Persistencia.pdb

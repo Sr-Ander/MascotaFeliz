@@ -1,0 +1,4 @@
+C:\EmpresaMascota\MascotaSaludable.App\Mascotasaludable.App.Consola\obj\Debug\netcoreapp3.1\MascotaSaludable.App.Consola.csprojAssemblyReference.cache
+C:\EmpresaMascota\MascotaSaludable.App\Mascotasaludable.App.Consola\obj\Debug\netcoreapp3.1\MascotaSaludable.App.Consola.AssemblyInfoInputs.cache
+C:\EmpresaMascota\MascotaSaludable.App\Mascotasaludable.App.Consola\obj\Debug\netcoreapp3.1\MascotaSaludable.App.Consola.AssemblyInfo.cs
+C:\EmpresaMascota\MascotaSaludable.App\Mascotasaludable.App.Consola\obj\Debug\netcoreapp3.1\MascotaSaludable.App.Consola.csproj.CoreCompileInputs.cache

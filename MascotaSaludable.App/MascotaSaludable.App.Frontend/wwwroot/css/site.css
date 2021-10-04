@@ -1,0 +1,182 @@
+﻿*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body{
+  display: block;
+}
+
+@font-face {
+  font-family: "RobotoBold";
+  src: url("Fuentes/RobotoMono-Bold.ttf");
+}
+@font-face {
+  font-family: "RobotoRegular";
+  src: url("Fuentes/RobotoMono-Regular.ttf");
+}
+
+div.Menu{
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  height: 55px;
+  background-color: #e5004e;
+  margin-top: 0px;
+  z-index: 2;
+  overflow: hidden;
+
+}
+
+
+nav {
+  font-family: xd;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  height: 55px;
+  text-align: center;
+
+}
+
+nav li {
+  display: inline-block;
+  top:0px;
+  margin-top: 0px;
+  border-color: #3c68b1;
+  border-top-width: 4px;
+  border-right-width: 4px;
+  border-left-width: 4px;
+  border-bottom-width: 4px;
+  border-style: solid;
+  border-bottom-width: 4px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  border-bottom-style:unset;
+
+  
+
+}
+
+nav li a, a:link, a:visited, a:focus, a:active{
+  color: white;
+  font-size: 125%;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+  font-family: RobotoBold;
+  width: 100%;
+  padding-top: 10px;
+  padding-left: 3vw;
+  padding-right: 3vw;
+  transition: 0s all;
+
+
+  height: 55px;
+}
+
+nav li:hover, .Ventana{
+  background-color: #3c68b1;
+  height: 55px;
+  transition: 0.5s;
+  border-bottom-width: 4px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  top: 0px;
+  position: relative;
+  text-decoration: none;
+  color: white;
+}
+
+
+
+body{
+  background: #ECF0F1;
+}
+
+.IMGPrincipal{
+  height: 24vw;
+}
+
+
+.Principal{
+  margin-top: 55px;
+  display:  flex;
+  position: sticky;
+  align-items: center;
+  font-family: RobotoBold;
+  box-shadow: 0px 10px 50px -2px #e5004c86;
+
+  
+}
+
+.PrincipalDos{
+  margin-top: 0px;
+  display:  flex;
+  position: sticky;
+  align-items: center;
+  font-family: RobotoBold;
+  box-shadow: 0px 10px 50px -2px #e5004c86;
+  
+}
+
+.PrincipalDos p{
+  font-family: RobotoRegular;
+  font-size: 150%;
+  text-align: justify;
+  margin: 20px;
+  margin-right: 35px;
+}
+
+
+.ImagenDos{
+  border-radius: 240px;
+  width: 35vw;
+}
+.Texto{
+  margin: 25px;
+  float: right;
+}
+.Principal p{
+  
+  top: 0px;
+  float: left;
+  font-size: 200%;
+  width: 50%;
+  margin-left: 95px;
+
+
+}
+
+.Principal image{
+  width: 50vw;
+  float: right;
+}
+img{
+  margin: 40px;
+}
+
+.XDXD{
+  height: 140%;
+  margin-top: -10px;
+  transform: rotate(-45deg);
+  margin-left: 40px;
+}
+
+h1{
+  margin-right: 10px;
+  
+}
+
+.Margen{
+  margin-left: 25px;
+}
+
+.container{
+  margin: 0px;
+  padding: 0px;
+  max-width: none;
+
+}
